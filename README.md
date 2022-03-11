@@ -1,2 +1,3 @@
-# Exercicio-hello-dev-web
-Faça um site de boas-vindas para os estudantes de tecnologias web.
+# Site
+
+![Tela do site](tela.png)
